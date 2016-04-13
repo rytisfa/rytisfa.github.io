@@ -482,7 +482,7 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
-   background-image: url("http://www.dronevideo3d.com/img/posteris.jpg");
+   background-image: url("http://www.dronevideo3d.com/img/poster.jpg");
     background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
